@@ -36,7 +36,10 @@ Git
 
 0. git init - создать локальный репозиторий
 0. git remote add <name of remote> <https://>
+0. git push -u origin master
+
 0. git clone - вытаскивание существующего уделенного репозитория
+
 0. Файл .gitignore
 
 
