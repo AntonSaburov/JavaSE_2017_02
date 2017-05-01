@@ -1,0 +1,76 @@
+1. Позиция в файле
+2. Информация об имени поля
+
+
+Информация + структуру информации
+
+
+Иванов Сергей Сергеевич
+Сергей Сергеевич Иванов
+
+SGML - Standard Generalized Markup Language - 1986
+
+<family>
+<person type=«husband»>
+  <surname>Петров</surname>
+  <givenname>Алексей</givenname>
+</person>
+<person type=«child»>
+</person>
+</family>
+
+HTML - Hyper Text Markup Language
+WML - Wireless Markup Language
+
+
+XML - eXtensible Markup Language
+
+
+1. Well-formed
+2.1 DTD - Document Type Definition
+2.2 XSD - Xml Scheme Definition - XML
+
+
+SAX - Simple API for XML
+
+1. Stream Processing
+2. DOM - Document Object Model
+
+Info1 - file1  -> Info2 - file2
+
+
+
+Document
+Node (Document)
+ - Node - Element
+   - Node
+   - Node
+   - Node
+   - Node
+   - Node
+   - Node
+     - Node
+     - Node
+   - Node
+     - Node
+     - Node
+   - Node
+     - Node
+     - Node
+
+XPath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

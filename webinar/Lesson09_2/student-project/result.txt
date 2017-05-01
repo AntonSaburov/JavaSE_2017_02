@@ -1,0 +1,10 @@
+StudentOrder:
+GrnChecker:Husband 2
+GrnChecker:Wife 2
+GrnChecker:Child 0
+GrnChecker:Child 1
+ZagsChecker.checkWedding
+ZagsChecker.checkChild
+ZagsChecker.checkChild
+StudentChecker:Husband 2
+StudentChecker:Wife 2

@@ -1,0 +1,6 @@
+StudentOrders
+  - List<StudentOrder>
+    - PersonAdult husband
+    - PersonAdult wife
+    - List<PersonChild> children
+      - PersonChild
